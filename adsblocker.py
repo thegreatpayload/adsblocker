@@ -4,7 +4,7 @@ import datetime
 
 #Define the default route and the blocklist URL
 defaultRoute = "0.0.0.0"
-blocklist = ""
+blocklist = "https://cp.sync.com/mfs-60:1ae1e6ad4a678d43896bbe98cdad2510=============================/u/hosts.txt?cachekey=60:1ae1e6ad4a678d43896bbe98cdad2510=============================&datakey=GGoAPxnGoDSw8eMIEaPNgPnyJYsLopn+a6MRQCkeuXZDtnuZmvSRIZwm2RhCrSgDWAkJmdFyevblXSGWsspMbYYyTYL/FHiMWuJ7icERcW7MIiKnzDGdDA5Lx+R/XB4xDDqJyClv6w9zOtWJBi7W4oZE6cX/5MpAV900edttk0MBGzp1zjhj8sfAeoLnmBTiWqUKLjIsBhzcx1FXp5FcE6RcNmE8SAtjj0WMaCQYMPHznqxsBbrMiJFc9gvOhatF9no8V5Nlhll3oINWde6y6KV2xi+D5bGmkMbyg4VT3FIsN72gJmClopnFijNj4dJNvgejFbzyz3Zs52HpjVMhqQ&mode=101&api_version=1&header1=Q29udGVudC1UeXBlOiB0ZXh0L3BsYWlu&header2=Q29udGVudC1EaXNwb3NpdGlvbjogaW5saW5lOyBmaWxlbmFtZT0iaG9zdHMudHh0IjtmaWxlbmFtZSo9VVRGLTgnJ2hvc3RzLnR4dDs&servtime=1697643309135&engine=cp-3.1.38&userid=2016210009&deviceid=4508960009&devicetypeid=3&access_token=eb3d43fb0bd36c8168badb5244c6c37eeb183453e4f3b2dbd8d951c18c0bb234"
 
 #Define the Zone Header for the output file
 zoneHeader = """$TTL 1w ; default TTL = 1w
