@@ -29,7 +29,7 @@ crontab -l > adsblocker
 #cron job which will run at 00:00 on Sunday.
 echo "0 0 * * 0 sudo python3 /etc/bind/adsblocker.py>> /etc/bnd/adsblocker.log" >> adsblocker
 #install new cron file
-crontab adblocker
+crontab adsblocker
 
 rm adsblocker
 echo "...Finish... "
