@@ -39,7 +39,7 @@ with urllib.request.urlopen(blocklist) as f:
         line = bytes.decode("utf-8").strip()
 
         #If the line starts with the default route , extract the domain
-        if (line.startwith(defaultRoute)):
+        if (line.startswith(defaultRoute)):
             #Ignore the IP address and extract the domain
             domain = line[8:]
 
