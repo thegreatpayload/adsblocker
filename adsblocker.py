@@ -26,7 +26,7 @@ file = open("/etc/bind/adsblocker.db","w")
 file.write(zoneHeader + "\n")
 
 #Get the current date and time
-now = datetime.datetime.now
+now = datetime.datetime.now()
 
 #Initialize the total number of updated domains to  0
 totalDomains  = 0
