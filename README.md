@@ -1,4 +1,4 @@
-<img align="right" alt="coding"  src="adsblocker.gif">
+<img align="right" alt="coding" width ="400" src="[adsblocker.gif](https://github.com/thegreatpayload/adsblocker/blob/3431ef55154c5cd3d5338f5982fdb16ce0a58b9a/adsblocker.gif)">
 <p>The adsblocker tool is a powerful tool designed to enhance your web browsing experience by blocking intrusive advertisements. With the increasing presence of advertisements on the internet, it can be frustrating to constantly be bombarded with pop-ups, banner ads, and auto-play videos. 
 
 The adsblocker tool combats this issue by effectively blocking all types of advertisements on websites, allowing you to browse the internet without interruptions. It works seamlessly in the background, analyzing webpage content in real-time to identify and prevent ads from being displayed.
